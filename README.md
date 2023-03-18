@@ -7,3 +7,11 @@ s: move spaceship down\
 q: quit game
 ---
 - *This project was created in C using the gfx graphics library. To run the program, an X11 display server is required.*
+
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/69359897/226082655-a08cdd66-d7d8-4c7d-b882-ef902f4ca748.png" width="310">&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/69359897/226082771-2f0840f0-461d-48c0-bea2-9ce396018452.png" width="310">&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/69359897/226082826-2fa81361-1de0-4e51-8b43-3b7a045baaa4.png" width="310">
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
