@@ -3,7 +3,7 @@
 # Makefile
 
 project: space.c
-	gcc space.c gfx2.o -lX11 -lm -o project
+	gcc space.c gfx2.o -lX11 -lm -no-pie -o project
 
 clean:
 	rm project
